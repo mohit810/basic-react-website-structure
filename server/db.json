@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "test title",
+      "description": "test description",
+      "id": 1
+    },
+    {
+      "title": "testing history.push",
+      "description": "testing history.push",
+      "userId": "101791379316071110007",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "description": "hello",
+      "id": 4
+    },
+    {
+      "title": "Patch example",
+      "description": "this stream is edited by PATCH while upper was edited by PUT notice any difference?",
+      "userId": "101791379316071110007",
+      "id": 5
+    }
+  ]
+}
